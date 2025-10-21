@@ -1,0 +1,17 @@
+[project]
+name = "tutorial-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "faiss-cpu>=1.12.0",
+    "jupyter>=1.1.1",
+    "langchain>=1.0.0",
+    "langchain-community>=0.4",
+    "langchain-google-genai>=3.0.0",
+    "langgraph>=1.0.0",
+    "notebook>=7.4.7",
+    "typing>=3.10.0.0",
+]
