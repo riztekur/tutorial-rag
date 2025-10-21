@@ -1,0 +1,115 @@
+Dokumen Penanganan Komplain Pelanggan
+PT. Nusantara Telekomindo
+1. Tujuan
+
+Dokumen ini bertujuan untuk memastikan setiap keluhan pelanggan terhadap produk dan layanan PT. Nusantara Telekomindo ditangani secara profesional, cepat, transparan, dan tuntas, sehingga dapat meningkatkan kepuasan pelanggan dan menjaga kualitas layanan (Service Quality Assurance).
+
+2. Ruang Lingkup
+
+Prosedur ini berlaku untuk seluruh produk dan layanan yang disediakan oleh PT. Nusantara Telekomindo, meliputi:
+
+Layanan Internet & Data (Dedicated Internet Access, Broadband, VPN)
+
+Layanan Infrastruktur Telekomunikasi (Fiber Optic, Tower, Wireless Network)
+
+Managed Services & Digital Solutions (Cloud Hosting, Unified Communications, IoT)
+
+3. Definisi
+
+Komplain Pelanggan: Setiap pernyataan ketidakpuasan yang disampaikan pelanggan terhadap produk, layanan, atau pelayanan dari PT. Nusantara Telekomindo.
+
+Ticket Komplain: Nomor referensi resmi yang digunakan untuk memantau status penanganan keluhan.
+
+Customer Care: Tim yang bertanggung jawab menerima, mencatat, dan memantau penyelesaian komplain pelanggan.
+
+4. Prosedur Penanganan Komplain
+4.1. Kanal Pengaduan
+
+Pelanggan dapat menyampaikan komplain melalui salah satu kanal berikut:
+
+Telepon: (021) 555-6789 ext. 2 (Customer Service)
+
+Email: support@nusantaratelekomindo.co.id
+
+Portal Pelanggan: https://portal.nusantaratelekomindo.co.id
+
+Kunjungan langsung: Kantor pusat atau cabang terdekat
+
+4.2. Alur Penanganan Komplain
+Tahap	Kegiatan	Penanggung Jawab	Waktu Maksimal
+1. Penerimaan Komplain	Menerima keluhan pelanggan dan mencatat detail komplain (nama pelanggan, layanan, deskripsi masalah, waktu kejadian).	Customer Care	1 jam setelah laporan diterima
+2. Verifikasi Awal	Mengecek status layanan pelanggan, validasi data, dan klasifikasi tingkat urgensi (Minor, Major, Critical).	Customer Support	2 jam
+3. Eskalasi ke Tim Teknis / Terkait	Mengirim tiket ke divisi teknis sesuai kategori masalah (network, billing, account, service).	Customer Care Supervisor	4 jam
+4. Investigasi dan Penyelesaian	Analisis akar masalah dan tindakan korektif/perbaikan sementara dan permanen.	Divisi Teknis / Network Operation	1–3 hari kerja
+5. Konfirmasi ke Pelanggan	Menginformasikan hasil penyelesaian dan meminta konfirmasi kepuasan pelanggan.	Customer Care	24 jam setelah perbaikan
+6. Penutupan Tiket	Menutup tiket jika pelanggan menyatakan masalah telah selesai.	Customer Care	-
+4.3. Klasifikasi Komplain
+Kategori	Deskripsi	Contoh
+Minor	Gangguan kecil tanpa dampak besar terhadap layanan utama	Penurunan kecepatan internet, gangguan billing
+Major	Gangguan yang memengaruhi sebagian besar layanan pelanggan	VPN tidak dapat digunakan, gangguan fiber di area tertentu
+Critical	Gangguan total atau insiden besar yang berdampak luas	Jaringan backbone down, data center outage
+5. SLA (Service Level Agreement) Penanganan Komplain
+Kategori Komplain	Target Waktu Respon Awal	Target Penyelesaian Maksimal
+Minor	≤ 2 jam	≤ 1 hari kerja
+Major	≤ 1 jam	≤ 2 hari kerja
+Critical	≤ 30 menit	≤ 8 jam
+6. Eskalasi Masalah
+
+Apabila pelanggan belum puas dengan hasil penyelesaian komplain:
+
+Pelanggan dapat meminta review ulang kepada Customer Care Supervisor.
+
+Jika masih belum terselesaikan, komplain akan dinaikkan ke Manajer Layanan Pelanggan (Customer Service Manager).
+
+Untuk kasus tertentu yang bersifat strategis atau berpotensi merugikan pelanggan besar, eskalasi dilakukan ke Direktur Operasional (Director of Network Operations).
+
+7. Tindakan Korektif dan Pencegahan
+
+Setiap komplain yang selesai harus diikuti dengan analisis akar penyebab (Root Cause Analysis – RCA).
+
+Tim teknis wajib membuat Corrective and Preventive Action Report (CAPA) untuk mencegah masalah serupa di masa depan.
+
+Evaluasi bulanan dilakukan untuk memantau tren komplain dan menentukan langkah peningkatan kualitas layanan.
+
+8. Dokumentasi dan Pelaporan
+
+Semua komplain dicatat dalam sistem CRM atau Helpdesk dengan data berikut:
+
+Nomor tiket
+
+Identitas pelanggan
+
+Jenis layanan
+
+Kategori komplain
+
+Waktu pelaporan dan penyelesaian
+
+Hasil tindakan dan status akhir
+
+Laporan rekapitulasi komplain dibuat setiap bulan oleh Divisi Customer Experience untuk dievaluasi oleh manajemen.
+
+9. Evaluasi dan Peningkatan Layanan
+
+Hasil evaluasi bulanan digunakan sebagai dasar untuk peningkatan SOP layanan dan pengembangan produk.
+
+Tingkat kepuasan pelanggan (Customer Satisfaction Index/CSI) diukur minimal dua kali setahun.
+
+Feedback pelanggan menjadi bagian dari proses Continuous Service Improvement (CSI Framework).
+
+10. Penanggung Jawab
+
+Customer Care Department – Koordinasi penerimaan dan pemantauan komplain
+
+Network Operation Division – Penanganan teknis gangguan
+
+Billing & Account Division – Penanganan keluhan tagihan
+
+Customer Experience Department – Analisis dan pelaporan tren komplain
+
+📍 PT. Nusantara Telekomindo
+Jl. Gatot Subroto No. 123, Jakarta Selatan, Indonesia
+📞 (021) 555-6789
+✉️ support@nusantaratelekomindo.co.id
+
+🌐 www.nusantaratelekomindo.co.id
