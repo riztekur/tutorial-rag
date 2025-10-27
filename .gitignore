@@ -10,3 +10,4 @@ wheels/
 .venv
 
 .env
+parsing_result/
