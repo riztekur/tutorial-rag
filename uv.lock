@@ -5617,7 +5617,9 @@ dependencies = [
     { name = "markitdown", extra = ["all"] },
     { name = "notebook" },
     { name = "pymupdf4llm" },
+    { name = "qdrant-client" },
     { name = "typing" },
+    { name = "voyageai" },
 ]
 
 [package.metadata]
@@ -5636,7 +5638,9 @@ requires-dist = [
     { name = "markitdown", extras = ["all"], specifier = ">=0.1.3" },
     { name = "notebook", specifier = ">=7.4.7" },
     { name = "pymupdf4llm", specifier = ">=0.0.27" },
+    { name = "qdrant-client", specifier = ">=1.15.1" },
     { name = "typing", specifier = ">=3.10.0.0" },
+    { name = "voyageai", specifier = ">=0.3.5" },
 ]
 
 [[package]]
